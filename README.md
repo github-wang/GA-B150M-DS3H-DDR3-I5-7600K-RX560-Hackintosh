@@ -1,4 +1,4 @@
-zhixing
+B150M-DS3H-DDR3-I3-6100-Hackintosh
 =======
 
-智能推荐阅读，生活无限精彩！
+opencore 0.6.1引导文件
